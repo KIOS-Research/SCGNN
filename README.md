@@ -70,7 +70,7 @@ Performance comparison on contamination source isolation with accuracy and F1-sc
 
 ## Visualize Event-Specific Learned Edges
 
-![](figures/learned_edges_ltown_s2.png)
+![](figures/learned_edges_ltown_s3.png)
 
 ## Citation
 
