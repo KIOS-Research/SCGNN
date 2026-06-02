@@ -1,14 +1,14 @@
 # SCGNN
 
-Sensor-only Contrastive Graph Neural Network (SCGNN) for contamination source isolation in water distribution networks (WDN).
+Sensor-only Contrastive Graph Neural Network (SCGNN) for contamination source isolation in water distribution networks (WDN). The paper is accepted at [35th International Conference on Artificial Neural Networks (ICANN 2026)](https://e-nns.org/icann2026/).
 
 ![](figures/framework.png)
 
 ## Dataset
 
-The contamination isolation scenarios are distributed through [Zenodo](https://zenodo.org/records/20462263):
+The contamination isolation scenarios are distributed through Zenodo. Access the dataset at
 
-> X. Chen, S. Vrachimisand M. Polycarpou, “Contamination Isolation Scenarios in Water Distribution Networks”. Zenodo, May 30, 2026. doi: 10.5281/zenodo.20462263.
+> [X. Chen, S. Vrachimisand M. Polycarpou, “Contamination Isolation Scenarios in Water Distribution Networks”. Zenodo, May 30, 2026. doi: 10.5281/zenodo.20462263.](https://doi.org/10.5281/zenodo.20462263)
 
 After downloading the dataset, arrange it as:
 
@@ -70,7 +70,7 @@ Performance comparison on contamination source isolation with accuracy and F1-sc
 
 ## Visualize Event-Specific Learned Edges
 
-![](figures/learned_edges_ltown_s3.png)
+<img src="figures/learned_edges_ltown_s2.png" width="500">
 
 ## Citation
 
