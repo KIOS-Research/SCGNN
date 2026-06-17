@@ -72,12 +72,12 @@ Performance comparison on contamination source isolation with accuracy and F1-sc
 
 <table>
   <tr>
-    <td><img src="figures/learned_edges_zj_s42.png" width="400"></td>
-    <td><img src="figures/learned_edges_zj_s44.png" width="400"></td>
+    <td><img src="figures/learned_edges_ZJ_scenario_43.png" width="400"></td>
+    <td><img src="figures/learned_edges_ZJ_scenario_47.png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="figures/learned_edges_ltown_s2.png" width="400"></td>
-    <td><img src="figures/learned_edges_ltown_s3.png" width="400"></td>
+    <td><img src="figures/learned_edges_L-TOWN_scenario_4.png" width="400"></td>
+    <td><img src="figures/learned_edges_L-TOWN_scenario_5.png" width="400"></td>
   </tr>
 </table>
 
