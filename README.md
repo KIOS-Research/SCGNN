@@ -1,3 +1,5 @@
+<img src="figures/KIOS.png" width="200">
+
 # SCGNN
 
 Sensor-only Contrastive Graph Neural Network (SCGNN) for contamination source isolation in water distribution networks (WDN). The paper is accepted at [35th International Conference on Artificial Neural Networks (ICANN 2026)](https://e-nns.org/icann2026/).
