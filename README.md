@@ -2,9 +2,16 @@
 
 # SCGNN
 
+[![ICANN 2026](https://img.shields.io/badge/ICANN-2026-blue)](https://e-nns.org/icann2026/)
+[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blue)](https://doi.org/10.5281/zenodo.20462263)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
+
 Sensor-only Contrastive Graph Neural Network (SCGNN) for contamination source isolation in water distribution networks (WDN). The paper is accepted at [35th International Conference on Artificial Neural Networks (ICANN 2026)](https://e-nns.org/icann2026/).
 
 ![](figures/framework.png)
+
+> **Abstract**: Contamination source isolation in water distribution networks (WDN) is critical for ensuring public health and safety. Traditional graph-based methods rely on the complete WDN topology, which becomes ineffective under sparse sensor placement due to limited observations. In this paper, we propose a novel sensor-only graph learning framework that leverages self-attention mechanisms to learn latent connections among sensor nodes directly from water quality measurements, eliminating the need for physical network topology. This approach enables effective message passing and feature aggregation using only the deployed sensors as graph nodes. Additionally, we introduce a contrastive learning objective to regularize the learned adjacency matrix, ensuring it captures contamination-relevant dependencies. Experiments on benchmark WDN datasets demonstrate that the proposed method outperforms existing graph-based and transformer-based models in contamination source isolation accuracy while maintaining competitive computational efficiency.
 
 ## Dataset
 
