@@ -7,7 +7,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
 
-Sensor-only Contrastive Graph Neural Network (SCGNN) for contamination source isolation in water distribution networks (WDN). The paper is accepted at [35th International Conference on Artificial Neural Networks (ICANN 2026)](https://e-nns.org/icann2026/).
+Sensor-only Contrastive Graph Neural Network (SCGNN) for contamination source isolation in water distribution networks (WDN). The paper is accepted at [35th International Conference on Artificial Neural Networks (ICANN 2026)](https://link.springer.com/chapter/10.1007/978-3-032-38404-1_55).
 
 ![](figures/framework.png)
 
@@ -92,15 +92,17 @@ Performance comparison on contamination source isolation with accuracy and F1-sc
 
 ## Citation
 
-If you use this repository or dataset, please cite the dataset:
+If you use this repository or dataset, please cite the paper:
 
 ```bibtex
-@dataset{chen_2026_contamination_isolation_scenarios,
-  author       = {Chen, Xiaohan and Vrachimis, Stelios and Polycarpou, Marios},
-  title        = {Contamination Isolation Scenarios in Water Distribution Networks},
-  publisher    = {Zenodo},
-  year         = {2026},
-  month        = may,
-  doi          = {10.5281/zenodo.20462263}
+@InProceedings{10.1007/978-3-032-38404-1_55,
+author="Chen, Xiaohan and Vrachimis, Stelios and Polycarpou, Marios M.",
+title="Contamination Source Isolation in Water Distribution Networks via Sensor-Only Contrastive Graph Learning",
+booktitle="Artificial Neural Networks and Machine Learning -- ICANN 2026",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="691--703",
+isbn="978-3-032-38404-1"
 }
 ```
